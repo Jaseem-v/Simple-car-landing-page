@@ -147,14 +147,18 @@ button:focus{
     #right-side img {
        width: 139%;
        margin-top: 58%;
+       
    }
+
+}
  @media (max-width: 760px){
     #right-side img {
        width: 100%;
        margin-top: 20%;
+       
    }
 
-
+ }
 @media(max-width:530px){
     nav ul{
         overflow: hidden;
